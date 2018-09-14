@@ -1,0 +1,14 @@
+{
+  "name": "eth-balance",
+  "main": "eth-balance.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "eth-connect": "git+https://github.com/swarmcity/eth-connect.git",
+    "eth-contract": "git+https://github.com/swarmcity/eth-contract.git"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
